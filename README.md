@@ -3,7 +3,7 @@
 Span of Project: September 2018
 
 **Project Background**
-Flappy bird AI made in Unity, utilizing the genetic algorithm.
+Hyper Casual-esque game made in Unity.
 
 **How to Play**
 - Click to jump
